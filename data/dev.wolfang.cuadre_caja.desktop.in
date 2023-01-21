@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=cuadre_caja
+Exec=cuadre_caja
+Icon=dev.wolfang.cuadre_caja
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

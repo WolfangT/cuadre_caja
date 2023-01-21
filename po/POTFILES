@@ -1,0 +1,6 @@
+data/dev.wolfang.cuadre_caja.desktop.in
+data/dev.wolfang.cuadre_caja.appdata.xml.in
+data/dev.wolfang.cuadre_caja.gschema.xml
+src/main.py
+src/window.py
+src/window.ui
